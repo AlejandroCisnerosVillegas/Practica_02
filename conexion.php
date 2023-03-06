@@ -1,6 +1,6 @@
 <?php
 	
-	$conn = new mysqli("localhost","root","","general");
+	$conn = new mysqli("IP_Address","User","Password","DataBase_Name");
 	
 	if($conn->connect_errno)
 	{
