@@ -16,7 +16,7 @@ Captura y visualización de parámetros pasados en la URL utilizando PHP para mo
 
 La práctica realizada demuestra un sólido entendimiento de la integración entre PHP, HTML y CSS para desarrollar una aplicación web funcional que interactúa con una base de datos. El sistema permite listar productos de manera dinámica, ofrecer detalles y acciones sobre cada uno de ellos, y presenta una interfaz de usuario agradable y eficiente.
 
-**Consulta la versión preliminar de la practica aquí:** [https://practica_02.com](https://alejandrovillegas.net/projects/practice-02/index.php)
+**Consulta la versión preliminar de la practica aquí:** [https://practica_02.com](https://www.alejandrovillegas.dev/projects/practice-02/index.php)
 
 # 📌 Información de la Practica
 
@@ -28,7 +28,7 @@ Esta practica ha sido desarrollado como parte del portafolio de soluciones tecno
 
 - **Fecha de Desarrollo**: 12 de febrero de 2018
 
-- **Portafolio de Proyectos**: [www.alejandrovillegas.net](https://www.alejandrovillegas.net/)
+- **Portafolio de Proyectos**: [www.alejandrovillegas.dev](https://www.alejandrovillegas.dev)
 
 # Guía de Instalación y Configuración
 
